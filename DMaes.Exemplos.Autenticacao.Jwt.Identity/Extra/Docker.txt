@@ -1,0 +1,3 @@
+﻿docker pull microsoft/mssql-server-linux
+
+docker run -d --name testesqlserver2017 -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=abcd1234!" -e "MSSQL_PID=Developer" --cap-add SYS_PTRACE -p 11433:1433 -v -d microsoft/mssql-server-linux:2017-latest

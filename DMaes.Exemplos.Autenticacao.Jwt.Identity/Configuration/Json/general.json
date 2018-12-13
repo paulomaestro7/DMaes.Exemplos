@@ -1,0 +1,7 @@
+﻿{
+  "ConfiguracaoToken": {
+    "Audience": "publico",
+    "Issuer": "emissor",
+    "Seconds": 3600
+  }
+}

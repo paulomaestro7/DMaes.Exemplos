@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionDevelopment": "Data Source=localhost\\Developer,11433;Initial Catalog=DMaes;User ID=sa;Password=abcd1234!",
+  "ConnectionHomologation": "Data Source=localhost\\Developer,11433;Initial Catalog=DMaes;User ID=sa;Password=abcd1234!",
+  "ConnectionProduction": "Data Source=localhost\\Developer,11433;Initial Catalog=DMaes;User ID=sa;Password=abcd1234!"
+}
